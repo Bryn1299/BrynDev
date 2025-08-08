@@ -1,4 +1,3 @@
-[![Brayinha](https://avatars.githubusercontent.com/u/12345678?s=400&u=abc123def456)](https://github.com/Brayinha)
 
 # Brayanh 🐍 Desenvolvedor Backend | Buscando Novas Oportunidades
 
